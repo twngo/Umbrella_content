@@ -16,6 +16,8 @@ We are currently translating Umbrella into other languages. You can see our prog
 
 For more information, please see our [translator information document] (https://github.com/securityfirst/Umbrella_content/blob/master/TRANSLATION.md).
 
+For Chinese localization, please check [this](Chinese.md)，本專案正體中文化進度，請參查此。 
+
 We are currently in the middle of making our content flow more efficient and are collaborating with a community project to make it easier to reuse. For more details on that, see [here] (https://iilab.github.io/contentascode/).
 
 
