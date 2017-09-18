@@ -44,6 +44,8 @@ Digital and physical security for people at risk
 5. protests　抗議行動
 
 ### personal protection and stress　　自我保護與情緒壓力調解
+1. protective equipment  設備器材保護
+2. stress 壓力情緒調解
 
 ### tools 數位安全工具指南
 1. adium
