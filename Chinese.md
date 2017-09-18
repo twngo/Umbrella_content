@@ -12,7 +12,7 @@ Digital and physical security for people at risk
 這個中文版本的釋出，尚未有完善的二把手校對審閱，若發現中文譯稿中出現重大錯誤，也請不吝使用 git hub issue 提出改正，方能與時具進地提供更新、安全
 保護建議。
 
-正體中文網頁版 (comming soon)
+正體中文網頁版： https://umbrella.twngo.xyz (demo)
 
 ## Umbrella　內容架構
 ### communication 通訊
@@ -43,7 +43,7 @@ Digital and physical security for people at risk
 4. meeting　會面會議
 5. protests　抗議行動
 
-### personal protection and stress　　自我保護與情緒壓力管理
+### personal protection and stress　　自我保護與情緒壓力調解
 
 ### tools 數位安全工具指南
 1. adium
