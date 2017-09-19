@@ -12,7 +12,7 @@ Digital and physical security for people at risk
 這個中文版本的釋出，尚未有完善的二把手校對審閱，若發現中文譯稿中出現重大錯誤，也請不吝使用 git hub issue 提出改正，方能與時具進地提供更新、安全
 保護建議。
 
-正體中文網頁版： https://umbrella.twngo.xyz (demo)
+正體中文網頁版： coming soon
 
 ## Umbrella　內容架構
 ### communication 通訊
@@ -26,7 +26,7 @@ Digital and physical security for people at risk
 
 ### emergency support　緊急支援
 1. digital　數位緊急支擾
-2. psyhical　人身緊急求援
+2. psyhical　人身緊急求援 (x)
 
 ### information　資訊
 1. backing up　備份
@@ -57,17 +57,18 @@ Digital and physical security for people at risk
 7. keepassx
 8. obscuracam
 9. orbot & orweb
-10. pgp for linux
-11. pgpg for mac osx
+10. pgp for linux  (x)
+11. pgpg for mac osx  (x)
 12. pgp for windows
 13. pidgin
 14. psiphon
-15. recuva
+15. recuva  
 16. rephone
 17. signal
 18. textsecure
 19. tor for mac osx
 20. tor for windows
+21. truecrypt ?? (x)
 
 ### travel　旅行提醒
 1. borders　出入國界邊境
