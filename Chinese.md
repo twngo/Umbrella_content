@@ -57,8 +57,8 @@ Digital and physical security for people at risk
 7. keepassx
 8. obscuracam
 9. orbot & orweb
-10. pgp for linux  (x)
-11. pgpg for mac osx  (x)
+10. pgp for linux  
+11. pgpg for mac osx  
 12. pgp for windows
 13. pidgin
 14. psiphon
@@ -75,3 +75,7 @@ Digital and physical security for people at risk
 2. kidnapping　被綁架
 3. preparation　旅程準備
 4. vehicles　搭車行車注意
+
+### Glossary 詞彙表 
+A-Z 
+
