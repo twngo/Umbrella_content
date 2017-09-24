@@ -77,5 +77,6 @@ Digital and physical security for people at risk
 4. vehicles　搭車行車注意
 
 ### Glossary 詞彙表 
-A-Z 
+1. A-L 重要詞彙或觀念
+2. M-Z 重要詞彙或觀念
 

@@ -22,7 +22,7 @@ The Digital Security Helpline　
 
 **描述：**數位安全協助專線提供全球公民團體免費資源，它是由國際人權組織 Access Now 所經營，提供對數位安全事件快速的回應、工具建議，以及在數位安全的基礎設施與網站/社交媒體攻擊破壞上提供支援服務。
 網址: www. accessnow.org
-電子郵件:help@accessnow.org
+電子郵件: help@accessnow.org
 
 
 Tactical Technology Collective

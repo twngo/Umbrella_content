@@ -18,7 +18,7 @@
 
 到初學者課程取得建立高強度密碼的建議
 
-[初學者課程](umbrella://lesson/passwords/0\" class=\"button green){.button .green}
+[初學者課程](umbrella://lesson/passwords/0){.button .green}
 
 到進階課程了解如何管理你的密碼
 

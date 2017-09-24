@@ -27,7 +27,7 @@ SMSSecure 可從 google play 商店下戴，只要點擊幾個步驟就可完成
 Signal
 ------
 
-[Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)　是一個免費開源的好用傳送簡訊工具，其可用於點對點之間的簡訊加密傳送以及安全的語音通話。此軟體可於 Androids 和 iPhones　手機上使用，其替代之前的安卓手機應用 TextSecure。( TextSecure 用戶或舊版　Signal　用戶應已收到更新通知或是可以自行到　Playstore/Appstore 安裝更新。)
+[Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)　是一個免費開源的好用傳送簡訊工具，其可用於點對點之間的簡訊加密傳送以及安全的語音通話。此軟體可於 Androids 和 iPhones　手機上使用，其替代之前的安卓手機應用 TextSecure。( TextSecure 用戶或舊版 Signal　用戶應已收到更新通知或是可以自行到　Playstore/Appstore 安裝更新。)
 
 Signal 現在整合了安全的語音電話軟體 Redphone，所以你不管是用 Android 還是 iPhone，現在可以同時用 Signal 來與對方通話以及傳簡訊。
 

@@ -2,7 +2,7 @@
 =======
 
 取用網路上的資訊或是發佈照片、影片，留下了許多足跡來追踪你是何人、所在位置和所做的工作。這可能置你於險境，為減少危險，你可以使用匿名工具例如 Tor。
-![](interneta1.png)
+![image](interneta1.png)
 
 **記住這些工具只能讓你在不須登入註冊的網站上保持匿名，但若在網上發表一些文章或許仍可認出你的身份！**
 
@@ -23,7 +23,7 @@ Tor 可說是對付安全審查的黃金標準，它也可以緩慢而技巧地�
 Orbot and Orweb
 ----------------
 
-Orbot是一款免費的代理應用程式可讓其它軟體更安全地使用網路，它透過使用 Tor 來加密你的瀏網記錄並以跳過各地一系列電腦來隱藏身份，這個過程會花上一點時間，但將能確保私密與身份保護。如何安裝使用Orbot，靖請參考 [Orbot工具指南](umbrella://lesson/orbot-&-orweb)。
+Orbot 是一款免費的代理應用程式可讓其它軟體更安全地使用網路，它透過使用 Tor 來加密你的瀏網記錄並以跳過各地一系列電腦來隱藏身份，這個過程會花上一點時間，但將能確保私密與身份保護。如何安裝使用Orbot，靖請參考 [Orbot工具指南](umbrella://lesson/orbot-&-orweb)。
 
 Orweb 是安卓手機上最為安全的瀏覧器 Orbot 與 Orweb 一起可以對付網路過濾與防火牆，以提供真正私密的網路連線。這兩個應用程式皆有安卓與 iPhone 版本可用，了解如何安裝與使用 Orweb，請參考 　[Orweb工具指南](umbrella://lesson/orbot-&-orweb)
 
@@ -37,7 +37,7 @@ Orweb 是安卓手機上最為安全的瀏覧器 Orbot 與 Orweb 一起可以對
 
 ### 相關課程與工具
 - Tor for Mac 工具指南
-- [Tor for Windows工具指南](umbrella://lesson/tor-for-windows)
+- [Tor for Windows 工具指南](umbrella://lesson/tor-for-windows)
 - [Orbot 工具指南](umbrella://lesson/orbot-&-orweb)
 - [Orweb tool guide](umbrella://lesson/orbot-&-orweb)
 

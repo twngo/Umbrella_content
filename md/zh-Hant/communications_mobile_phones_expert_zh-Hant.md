@@ -3,14 +3,14 @@
 
 軔體是製造者植入設備唯讀記憶體 ROM 上的永久軟體。它們與設備的作業系統執行分工，以維持智慧型手機硬體的基本運作，像是擴音器、麥克風、相機、觸控螢幕、記憶卡、天線等等。大部份的功能都遭到封鎖，因此用戶不能控制或改變這些功能。然而有些應用程式與功能性可以強化智慧手機上的資料與通訊的安全，此外一些其它功能可以被移除以避免潛在的安全風險。
 
-為此與其它原因，有些智慧手機使用者選擇改變其手機上運行的程式。這過程要克服原硬體製造商加諸在手機上的限制，也稱之為最高權限取得 rooting（在安卓設備）或是 jailbreaking 越獄（在一些　iOS　設備，如　iPhone、iPad）。成功地取得最高權限可以讓你安裝其它的應用程式，作出調動以及完整掌控資料儲存與手機記憶體的權限，好讓它更加安全。
+為此與其它原因，有些智慧手機使用者選擇改變其手機上運行的程式。這過程要克服原硬體製造商加諸在手機上的限制，也稱之為最高權限取得 rooting（在安卓設備）或是 jailbreaking 越獄（在一些 iOS　設備，如 iPhone、iPad）。成功地取得最高權限可以讓你安裝其它的應用程式，作出調動以及完整掌控資料儲存與手機記憶體的權限，好讓它更加安全。
 
 **警告：** Rooting 或 jailbreaking　取得最高權限可能是一個無法返回的過程，它要有軟體安裝與設定的經驗。考慮下面問題：
 - 它有讓你的智慧手機無法使用或是變成磚塊的風險
 - 手機製造商或是電信業者的保固也將失效
 - 在某些國家,這樣的操作是違法
 
-![](mobileexp1.png)
+![image](mobileexp1.png)
 
 但是如果你小心的話，一個取得最高權限的設備是讓手機更安全掌控的直接方式
 
@@ -31,7 +31,7 @@ Rooting　取得手機的最高權限可讓你安裝其它軔體 <br>安卓手�
 
 安卓隱私防護 The Android Privacy Guard (APG) 可以開源 GPG 加密檔案與電郵。它可用來保護手機上檔案與文以及傳送郵件時的安全.<br>如何安裝與使用的資訊可在 [APG Guide](umbrella://lesson/k9-&-apg)工具箱找到。
 
-![](mobileexp2.png)
+![image](mobileexp2.png)
 
 [Cryptonite](https://code.google.com/p/cryptonite) 是另一個開源的加密工具，它有更多進階的功能，尤其是給準備好已取得最高權限的手機自定軔體。
 
@@ -39,8 +39,7 @@ Rooting　取得手機的最高權限可讓你安裝其它軔體 <br>安卓手�
 
 到初學者課程了解使用移動電話的危險與建議
 
-[初學者課程](umbrella://lesson/mobile-phones/0){.button
-.green}
+[初學者課程](umbrella://lesson/mobile-phones/0){.button.green}
 
 ### 相關課程與工具
 
@@ -48,5 +47,5 @@ Rooting　取得手機的最高權限可讓你安裝其它軔體 <br>安卓手�
 
 ### 進一步閱讀
 
-- [Security in A  box 第11章, 盡可能安全地使用智慧型手機](https://securityinabox.org/en/guide/smartphones)
+- [Security in A box 第11章, 盡可能安全地使用智慧型手機](https://securityinabox.org/en/guide/smartphones)
 
