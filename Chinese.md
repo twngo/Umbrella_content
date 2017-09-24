@@ -3,16 +3,17 @@
 Digital and physical security for people at risk
 -------------------------------------------------------
 
-## 正體中文網頁版翻譯
+## 正體中文版翻譯
 
-1. 源起說明：（待補）
-2. 進度說明：放在這裏的中文譯稿以前期在 transifex 平台上的半成品，經譯者大略重新校對、編排，改以 [Markdown 語法](https://github.com/securityfirst/Umbrella_content/tree/master/md/en)轉成靜態網頁。
-若有興趣一起加入參與數位安全資訊的推動與在地化工作，歡迎來訊討論如何協作分工。
-為了早日普及華世社會對於基礎資訊安全的重視，譯者在經過和原開發者的商量後，方推出此中文版網頁。
-這個中文版本的釋出，尚未有完善的二把手校對審閱，若發現中文譯稿中出現重大錯誤，也請不吝使用 git hub issue 提出改正，方能與時具進地提供更新、安全
-保護建議。
+1. 譯者自述：（待補）
 
-正體中文網頁版： coming soon
+2. 專案說明：
+本網站上的中文譯稿，仍本人過去放在網路翻譯平台 [transifex](https://www.transifex.com/otf/umbrella-app/translate/#zh-Hant) 上的半成品。譯者依原開發者 Security First [資源庫](https://github.com/securityfirst/Umbrella_content)之材料，再次經過大略校對、標點符號與版面編排，主要依以 Markdown 語法為編寫形式。 
+
+此中文版本初稿的釋出，仍未有完善的二把手校對審閱，若發現中文譯稿出現重大錯誤，也請不吝使用 [github](https://github.com/twngo/Umbrella_content) issue 區提出改正或是直接 pull request，方能與時具進地提供更新、安全、正確的全方位保護建議。
+
+### 正體中文網頁版： coming soon
+為普及華文社會對資訊安全基礎知識的充實以及良好行為實踐的重視，譯者經過和原開發者的商量後，將推出正體中文版網頁，以更舒適的閱讀介面吸取相關資訊。
 
 ## Umbrella　內容架構
 ### communication 通訊
