@@ -5,7 +5,7 @@ Digital and physical security for people at risk
 
 ## 正體中文版翻譯
 
-1. 譯者自述：（待補）
+1. 譯者自述：[umbrella 正體中文網站上線](https://to.twngo.xyz/2fY8QNj)
 
 2. 專案說明：本專案正體[中文譯稿](https://github.com/twngo/Umbrella_content/tree/master/md/zh-Hant)，仍本人過去放在網路翻譯平台 [transifex](https://www.transifex.com/otf/umbrella-app/translate/#zh-Hant) 上的半成品。譯者依原開發者 Security First [資源庫](https://github.com/securityfirst/Umbrella_content)之材料，再次經過大略校對、標點符號與版面編排，主要依以 Markdown 語法為編寫形式。 
 
