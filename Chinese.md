@@ -11,8 +11,13 @@ Digital and physical security for people at risk
 
 此中文版本初稿的釋出，仍未有完善的二把手校對審閱，若發現中文譯稿出現重大錯誤，也請不吝使用 [github](https://github.com/twngo/Umbrella_content) issue 區提出改正或是直接 pull request，方能與時具進地提供更新、安全、正確的全方位保護建議。
 
-### 正體中文網頁版： coming soon
+### 正體中文網頁版： https://umbrella.twngo.xyz
 為普及華文社會對資訊安全基礎知識的充實以及良好行為實踐的重視，譯者經過和原開發者的商量後，將推出正體中文版網頁，以更舒適的閱讀介面吸取相關資訊。
+
+### 工作流程與規畫
+1. 正體中文校稿完畢（ github 主要長篇型文字為主，Transifex　則以簡單、重覆字串為輔，工作流程待補）
+2. 簡體中文轉換與校稿
+
 
 ## Umbrella　內容架構
 
